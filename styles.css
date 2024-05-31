@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    font-size: 0;
+}
+
+.body {
+    margin: 0px;
+    font-family: Poppins;
+}
+
+.wrapper {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+.gray {
+    color: #3D3D3D;
+}
+
+.green {
+    color: #46A358;
+}
+
+.upper-banners {
+    display: flex;
+    justify-content: space-around;
+    height: 302px;
+    margin-bottom: 138px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-around;
+    width: 586px;
+    background-color: #FBFBFB;
+    padding-bottom: 8px;
+}
+
+.bannerimg {
+    width: 287px;
+    height: 292px;
+}
+
+.bannerimgright {
+    width: 289px;
+    height: 287px;
+}
+
+.bannertexts {
+    padding-top: 37px;
+    padding-right: 30px;
+}
+
+.uppercase {
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 9px;
+}
+
+.rightaling {
+    text-align: right;
+}
+
+.findmore {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #46A358;
+    border: 0px;
+    border-radius: 6px;
+    padding-left: 28px;
+    padding-right: 27px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+}
+
+.text {
+font-size: 14px;
+font-weight: 400;
+color: #727272;
+}
+
+.titlesection {
+    display: block;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.description {
+    width: 557px;
+    text-align: center;
+}
+
+.articles {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 44px;
+    margin-top: 35px;
+}
+
+.imgblog {
+    width: 268px;
+    height: 196px;
+}
+
+.greentytle {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 9px;
+    margin-bottom: 4px;
+}
+
+.blogtytle {
+    margin-bottom: 4px;
+}
+
+.span {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.readlink {
+    display: flex;
+}
+
+.link {
+    text-decoration: none;
+    margin-top: 9px;
+}
+
+.link:hover {
+    color: #46A358;
+}
+
+.linktext {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.arrow {
+    display: inline-block;
+}
+
+.arrow-readmore {
+    width: 16px;
+    height: 16px;
+    background-size: cover;
+}
