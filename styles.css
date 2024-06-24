@@ -88,7 +88,6 @@ color: #727272;
 }
 
 .titlesection {
-    display: block;
     text-align: center;
     margin-bottom: 35px;
 }
@@ -119,8 +118,14 @@ color: #727272;
 .greentytle {
     font-size: 14px;
     font-weight: 500;
-    margin-top: 9px;
     margin-bottom: 4px;
+}
+
+.divtext {
+    padding-left: 15px;
+    padding-top: 9px;
+    padding-right: 11px;
+    padding-bottom: 12px;
 }
 
 .blogtytle {
